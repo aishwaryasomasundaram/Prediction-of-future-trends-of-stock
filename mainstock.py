@@ -1,6 +1,5 @@
 #import plotly
-pip install streamlit
-pip install python
+
 
 import streamlit as st
 from datetime import date
