@@ -5,8 +5,8 @@
 import streamlit as st
 from datetime import date
 
-from prophet import Prophet
-from prophet.plot import plot_plotly
+#from prophet import Prophet
+#from prophet.plot import plot_plotly
 import csv
 import pandas as pd
 
