@@ -1,5 +1,5 @@
 #import plotly
-from plotly import graph_objs as go
+from Plotly import graph_objs as go
 #requirement.txt
 
 import streamlit as st
