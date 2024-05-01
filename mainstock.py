@@ -29,11 +29,11 @@ def load_data(csv_file_path):
 
 # Define the file paths for each stock
 file_paths = {
-    "BRITANNIA": "C:/Users/HP/Downloads/britannia_data.csv",
-    "MARUTI": "C:/Users/HP/Downloads/maruti_data.csv",
-    "TATASTEEL": "C:/Users/HP/Downloads/tatasteel_data.csv",
-    "ASIANPAINTS": "C:/Users/HP/Downloads/asian_paints_data.csv",
-    "SBIBANK": "C:/Users/HP/Downloads/sbi_bank_data.csv"
+    "BRITANNIA": "britannia_data.csv",
+    "MARUTI": "maruti_data.csv",
+    "TATASTEEL": "tatasteel_data.csv",
+    "ASIANPAINTS": "asian_paints_data.csv",
+    "SBIBANK": "sbi_bank_data.csv"
 }
 
 # Load the data
