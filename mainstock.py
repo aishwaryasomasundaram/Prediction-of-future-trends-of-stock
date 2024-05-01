@@ -1,6 +1,6 @@
 #import plotly
 #from plotly import graph_objs as go
-requirement.txt
+#requirement.txt
 
 import streamlit as st
 from datetime import date
