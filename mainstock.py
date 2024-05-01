@@ -1,4 +1,4 @@
-#import plotly
+pip install plotly
 from Plotly import graph_objs as go
 #requirement.txt
 
