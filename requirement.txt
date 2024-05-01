@@ -1,5 +1,5 @@
 datetime
-plotly
+plotly==5.21.0
 prophet
 csv
 pandas
